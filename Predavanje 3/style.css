@@ -1,0 +1,32 @@
+body h1 {
+  color: red;
+  background-color: #123456;
+}
+body ul li {
+  color: #123456;
+  font-size: 5rem;
+  background-color: aquamarine;
+  margin: 5px;
+  width: 50%;
+}
+body div {
+  background-color: rgb(40, 40, 106);
+  padding: 5px 10px;
+  width: 250px;
+  border: 2px dashed black;
+}
+body .list {
+  margin-left: 50px;
+}
+body .list-first {
+  background-color: red;
+  color: white;
+}
+body .list-second {
+  background-color: #123456;
+  color: white;
+}
+body .list-third {
+  background-color: black;
+  color: white;
+}/*# sourceMappingURL=style.css.map */
