@@ -1,0 +1,14 @@
+body, html {
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.responsive {
+  background-color: gray;
+}
+@media (min-width: 1200px) {
+  .responsive .text-red {
+    color: red;
+  }
+}/*# sourceMappingURL=style.css.map */

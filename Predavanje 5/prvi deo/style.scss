@@ -1,0 +1,22 @@
+@import 'variables';
+@import 'mixins';
+
+
+
+
+
+body, html{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.responsive{
+    background-color: gray;
+    
+    @include media {
+        .text-red{
+            color: red;
+        }
+    }
+}

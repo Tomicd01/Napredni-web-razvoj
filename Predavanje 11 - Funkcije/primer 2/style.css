@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+
+button:first-child {
+  margin-left: 2rem;
+}/*# sourceMappingURL=style.css.map */
